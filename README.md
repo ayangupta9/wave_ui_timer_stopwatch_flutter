@@ -5,14 +5,13 @@
 -   Beautiful interface and animations to enhance user experience
 -   6 different color themes for background 
 
-![flutter_01](https://user-images.githubusercontent.com/71624964/119332596-6df07400-bca6-11eb-8689-d00dc4ae90fc.png){:height="80px"}
+![flutter_01_25](https://user-images.githubusercontent.com/71624964/119334349-a5602000-bca8-11eb-9573-782a83cfb707.png)
 
 
-![wave timer 3](https://user-images.githubusercontent.com/71624964/119333819-f3c0ef00-bca7-11eb-89a0-43b1fe62d065.jpg){:height="80px"}
+![wave_timer_2_25](https://user-images.githubusercontent.com/71624964/119334360-a98c3d80-bca8-11eb-99f0-f414ad220c11.jpg)
 
 
-![wave timer 2](https://user-images.githubusercontent.com/71624964/119333835-fae7fd00-bca7-11eb-9ebf-4aed42a9a644.jpg){:height="80px"}
-
+![wave_timer_3_25](https://user-images.githubusercontent.com/71624964/119334377-ad1fc480-bca8-11eb-9867-4f8e6c7fa30c.jpg)
 
 
 "# wave_ui_timer_stopwatch_flutter" 
